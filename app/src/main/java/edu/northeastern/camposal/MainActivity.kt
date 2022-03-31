@@ -16,7 +16,7 @@ import androidx.recyclerview.widget.RecyclerView
 import edu.northeastern.camposal.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
-
+    //checking????????????????????
     private var mSerializer: JSONSerializer? = null
     private var reviewList: ArrayList<Review>? = null
     //private var reviewList = ArrayList<Review>()
